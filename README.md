@@ -75,11 +75,11 @@ lib/
 
 ### Persistent Counter
 
-![Counter Screen](ss/counter.jpeg)
+![Counter Screen](ss/persistantcounter.jpeg)
 
 ### Todo List
 
-![Todo Screen](ss/todo.jpeg)
+![Todo Screen](ss/simpletodoapp.jpeg)
 
 ### Add Todo Dialog
 
